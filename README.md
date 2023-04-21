@@ -1,2 +1,2 @@
 # danielrepositorio
-repositorio de prueba de hub a local
+este es un proyecto de prueba de como crear un repositorio y clonarlo desde girhub a mi computadora local
